@@ -66,11 +66,7 @@ cd ichat-ui
 # 创建构建目录
 mkdir build && cd build
 
-# 配置（Windows + MSVC 示例）
-cmake .. -G "Visual Studio 17" -DCMAKE_PREFIX_PATH="<Qt安装路径>/6.8.0/msvc2022_64"
-
-# 构建
-cmake --build . --config Release
+# 构建 Qt Creator
 ```
 
 构建完成后运行 `iChat-ui` 可执行文件即可启动界面。
@@ -155,11 +151,7 @@ cd ichat-ui
 # Create a build directory
 mkdir build && cd build
 
-# Configure (Windows + MSVC example)
-cmake .. -G "Visual Studio 17" -DCMAKE_PREFIX_PATH="<Qt-install-path>/6.8.0/msvc2022_64"
-
-# Build
-cmake --build . --config Release
+# Build with Qt Creator
 ```
 
 After a successful build, run the `iChat-ui` executable to launch the interface.
