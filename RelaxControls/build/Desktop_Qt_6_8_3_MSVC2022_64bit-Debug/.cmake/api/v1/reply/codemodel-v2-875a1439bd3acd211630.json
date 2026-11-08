@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RelaxControls",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls-Debug-38fed0777aeee432984f.json",
+					"name" : "RelaxControls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_autogen-Debug-cd7afa97010938c8f54f.json",
+					"name" : "RelaxControls_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_autogen_timestamp_deps-Debug-46e29e8350e777ccb88b.json",
+					"name" : "RelaxControls_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_copy_qml-Debug-92852a388da28bdfd1d7.json",
+					"name" : "RelaxControls_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_copy_res-Debug-5a7567b439a6f6e0af86.json",
+					"name" : "RelaxControls_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_qmllint-Debug-3be77ea66d206b5d3142.json",
+					"name" : "RelaxControls_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_qmllint_json-Debug-17896d8412ac1e4038c0.json",
+					"name" : "RelaxControls_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_qmllint_module-Debug-27791351e5e97b1bcf60.json",
+					"name" : "RelaxControls_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_qmltyperegistration-Debug-4805def58e734cfa2ad0.json",
+					"name" : "RelaxControls_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_resources_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_resources_1-Debug-c518542115fe678fdc75.json",
+					"name" : "RelaxControls_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControls_resources_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControls_resources_2-Debug-ab5239824a4d66a847f9.json",
+					"name" : "RelaxControls_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControlsplugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControlsplugin-Debug-1f779c43cf4f0353160a.json",
+					"name" : "RelaxControlsplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControlsplugin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControlsplugin_autogen-Debug-25147a85256023b8991d.json",
+					"name" : "RelaxControlsplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControlsplugin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControlsplugin_autogen_timestamp_deps-Debug-f836b0726be0e5d77a80.json",
+					"name" : "RelaxControlsplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControlsplugin_init::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControlsplugin_init-Debug-85fe680ec6584e56f927.json",
+					"name" : "RelaxControlsplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControlsplugin_init_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControlsplugin_init_autogen-Debug-b538259b892872843c01.json",
+					"name" : "RelaxControlsplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RelaxControlsplugin_init_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RelaxControlsplugin_init_autogen_timestamp_deps-Debug-fdee888228f2d2225a86.json",
+					"name" : "RelaxControlsplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-9c93eecaf8b52947ddf3.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1539580c14474899818d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6d27b675fb6add52dbab.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9b3606ba9a2404d17512.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8a94ec2c8f9f3e4cf319.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_RelaxControls_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_RelaxControls_aotstats_target-Debug-55d8602e2e16d3f3e2d9.json",
+					"name" : "module_RelaxControls_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/project-qt/study/chapter10-2-QmlProject-template/RelaxControls/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug",
+		"source" : "D:/project-qt/study/chapter10-2-QmlProject-template/RelaxControls"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

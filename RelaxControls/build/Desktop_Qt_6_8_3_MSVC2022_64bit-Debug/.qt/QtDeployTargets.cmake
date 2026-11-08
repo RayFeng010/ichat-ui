@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_RelaxControls_FILE D:/project-qt/study/chapter10-2-QmlProject-template/RelaxControls/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/RelaxControls.lib)
+set(__QT_DEPLOY_TARGET_RelaxControls_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_RelaxControlsplugin_FILE D:/project-qt/study/chapter10-2-QmlProject-template/RelaxControls/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/RelaxControls/RelaxControlsplugin.lib)
+set(__QT_DEPLOY_TARGET_RelaxControlsplugin_TYPE STATIC_LIBRARY)

@@ -1,0 +1,8 @@
+module RelaxControls
+linktarget RelaxControlsplugin
+optional plugin RelaxControlsplugin
+classname RelaxControlsPlugin
+typeinfo RelaxControls.qmltypes
+prefer :/RelaxControls/
+MyItemControls 1.0 MyItemControls.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/RelaxControls/">
+    <file alias="MyItemControls.qml">D:/project-qt/study/chapter10-2-QmlProject-template/RelaxControls/MyItemControls.qml</file>
+  </qresource>
+</RCC>
+
