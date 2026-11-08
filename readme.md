@@ -88,10 +88,11 @@ mkdir build && cd build
 本项目未显式声明开源许可证，使用前请参考仓库实际许可情况。Font Awesome 图标字体遵循其原始许可条款。QianControls移植于https://blog.csdn.net/qq_37997682/category_11280267.html
 
 ### 运行效果
+<img width="980" height="660" alt="contact" src="https://github.com/user-attachments/assets/a16f392d-8ce1-45e4-86a7-837da98485b6" />
 
-[](https://github.com/RayFeng010/ichat-ui/blob/main/doc/ui/chat.png)
+<img width="986" height="666" alt="image" src="https://github.com/user-attachments/assets/883aaa2e-4637-4360-b357-e37f8a0ed859" />
 
-[](https://github.com/RayFeng010/ichat-ui/blob/main/doc/ui/contact.png)
+
 
 ---
 
