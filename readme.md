@@ -87,6 +87,12 @@ mkdir build && cd build
 
 本项目未显式声明开源许可证，使用前请参考仓库实际许可情况。Font Awesome 图标字体遵循其原始许可条款。QianControls移植于https://blog.csdn.net/qq_37997682/category_11280267.html
 
+### 运行效果
+
+[](https://github.com/RayFeng010/ichat-ui/blob/main/doc/ui/chat.png)
+
+[](https://github.com/RayFeng010/ichat-ui/blob/main/doc/ui/contact.png)
+
 ---
 
 ## English Version
