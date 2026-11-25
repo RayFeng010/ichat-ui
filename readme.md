@@ -21,7 +21,7 @@ iChat UI 是一个基于 **Qt 6 / QML** 开发的仿 QQ 聊天软件纯 UI 项�
 - **自定义控件库**——`QianControls` 与 `RelaxControls` 两个自定义控件模块，提供可复用的 UI 组件
 - **无边框窗口**——支持自定义标题栏与窗口拖拽，打造沉浸式桌面体验
 - **GIF 动图支持**——集成 `giftext_handler`，可在消息文本中嵌入动图
-CSDN Blog: https://blog.csdn.net/2603_97424974
+- **CSDN Blog**: https://blog.csdn.net/2603_97424974
 
 ### 🗂️ 项目结构
 
